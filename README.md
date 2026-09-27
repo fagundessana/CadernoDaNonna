@@ -30,16 +30,16 @@ O objetivo da atividade é criar um site de gerenciamento de receitas, aplicando
 
 <img width="1913" height="510" alt="image" src="https://github.com/user-attachments/assets/5360bfb3-d46e-4f0d-80d7-9b1add506ea1" />
 
->Figura 1 - Página inicial
+> Figura 1 - Página inicial
 
 <img width="1913" height="860" alt="image" src="https://github.com/user-attachments/assets/07467f20-67b0-4555-9685-e02d7edb3b3f" />
->Figura 2 - Página Explorar
+> Figura 2 - Página Explorar
 
 <img width="1916" height="860" alt="image" src="https://github.com/user-attachments/assets/ca26668b-7885-4b94-9aac-d030dd11d0ee" />
->Figura 3 - Página saiba mais
+> Figura 3 - Página saiba mais
 
 <img width="1917" height="861" alt="image" src="https://github.com/user-attachments/assets/02f7c02e-b403-42d8-98cd-fc8c49efe91d" />
->Figura 4 - Página de edição
+> Figura 4 - Página de edição
 ---
 
 ## 🗃️ Banco de dados 
