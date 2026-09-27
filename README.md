@@ -26,6 +26,13 @@ O objetivo da atividade é criar um site de gerenciamento de receitas, aplicando
 - **MySQL** - banco de dados
   
 ---
+## Representação visual
+
+
+https://github.com/user-attachments/assets/db16c189-b837-4b0d-8ec7-447b2157a396
+
+
+---
 ## ☑️ Telas
 
 <img width="1913" height="510" alt="image" src="https://github.com/user-attachments/assets/5360bfb3-d46e-4f0d-80d7-9b1add506ea1" />
