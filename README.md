@@ -1,8 +1,8 @@
-# 🏫 Site Etec da Zona Leste
+# 👩‍🍳 Site de Gerenciamento de Receitas
 
 Este repositório contém a resolução de uma atividade avaliativa desenvolvida na disciplina **Programação Web II**, com foco na criação de um site completo utilizando **Bootstrap, JavaScript, PHP e MySQL**.
 
-O objetivo da atividade é criar um site de gerenciamento de receitas, aplicando conceitos de estruturação de páginas, estilização, componentes responsivos, processamento de formulários com PHP e o desenvolvimento de banco de dados.
+O objetivo da atividade é criar um site de gerenciamento de receitas, aplicando conceitos de estruturação de páginas, estilização, componentes responsivos, processamento de formulários com PHP e a utilização do CRUD.
 
 ---
 
@@ -12,7 +12,7 @@ O objetivo da atividade é criar um site de gerenciamento de receitas, aplicando
 - Utilizar **PHP com `echo`** para exibir todo o conteúdo do site
 - Criar um formulário de contato funcional com envio e processamento via PHP
 - Aplicar **Bootstrap** para responsividade e componentes visuais
-- Desenvolver um banco de dados MySQL
+- Aplicar CRUD (create, update, read, delete)
 
 
 ---
